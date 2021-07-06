@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/video_play/.mvn
+/video_play/mvnw
+/video_play/mvnw.cmd
